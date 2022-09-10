@@ -23,5 +23,10 @@ function sumar(a,b){
     return a + b;
 }
 
+var miNombre = "Iván";
 
+function nombre(){
+    var miApellido = "Alarcón";
+    console.log (`${miNombre} ${miApellido}`);
+}
 
