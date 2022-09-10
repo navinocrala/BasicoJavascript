@@ -1,3 +1,11 @@
+// Expresión
+
+var miFuncion = function(a,b){
+    return a + b + " es el resultado";
+}
+
+miFuncion()
+
 // Declarativas
 
 function miFuncion() {
@@ -15,11 +23,5 @@ function sumar(a,b){
     return a + b;
 }
 
-// Expresión
 
-var miFuncion = function(a,b){
-    return a + b + " es el resultado";
-}
-
-miFuncion()
 
